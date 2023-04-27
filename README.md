@@ -1,4 +1,4 @@
-kaggle link: https://www.kaggle.com/competitions/uw-cs480-winter23
+link to kaggle: https://www.kaggle.com/competitions/uw-cs480-winter23
 
 # Report
 
